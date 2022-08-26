@@ -1,0 +1,7 @@
+#add CNN-CIFAR-10.ipynb to gitignore
+
+CNN-CIFAR-10.ipynb
+
+CNN-Imagenes-Malaria.ipynb
+
+CNN-MNIST.ipynb
